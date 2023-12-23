@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "expoBANKapp",
+    "slug": "expoBANKapp",
+    "version": "1.0.0",
+    "description": "Ứng dụng ngân hàng di động",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "backgroundColor": "#5AA5E2",
+      "resizeMode": "contain",  
+      "text": "Hello, ExpoBANKapp!", 
+      "textColor": "#FFFFFF", 
+      "textPosition": "bottom",  
+      "textSize": 24 
+    }
+  },
+  "name": "expoBANKapp"
+
+} 
